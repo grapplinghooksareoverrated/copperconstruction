@@ -1,4 +1,6 @@
 {
   "item.copperconstruction.copperwand" : "Varita de Cobre",
-  "item.copperconstruction.projectionkit" : "Caso de Proyección"
+  "item.copperconstruction.projectionkit" : "Caso de Proyección",
+  "block.copperconstruction.draftwool_block" : "Lana de Boceto",
+  "creativetab.copperconstruction.copperconstruction" : "Construcción por Cobre"
 }

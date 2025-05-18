@@ -22,7 +22,7 @@ public class ModBlocks {
     // <Block Definitions>
     public static final DeferredBlock<Block> DRAFTWOOL_BLOCK = registerBlock("draftwool_block",
             () -> new Block(BlockBehaviour.Properties.of()
-                    .strength(0f).explosionResistance(0f).sound(SoundType.WOOL)));
+                    .strength(0.05f).explosionResistance(0f).sound(SoundType.WOOL)));
     // </Block Definitions>
 
     // uhhh it's important

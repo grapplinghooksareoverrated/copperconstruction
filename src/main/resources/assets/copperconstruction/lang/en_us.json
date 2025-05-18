@@ -1,4 +1,6 @@
 {
   "item.copperconstruction.copperwand" : "Copper Wand",
-  "item.copperconstruction.projectionkit" : "Projection Kit"
+  "item.copperconstruction.projectionkit" : "Projection Kit",
+  "block.copperconstruction.draftwool_block" : "Draft Wool",
+  "creativetab.copperconstruction.copperconstruction" : "Copper Construction"
 }
