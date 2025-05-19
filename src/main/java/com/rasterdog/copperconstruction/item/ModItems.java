@@ -14,7 +14,7 @@ public class ModItems {
     // Add Copper Wand
     public static final DeferredItem<Item> COPPERWAND = ITEMS.register(
         "copperwand"
-        , () -> new Item( new Item.Properties() )
+        , () -> new CopperWand( new Item.Properties() )
     );
 
     // Add Projection Kit
